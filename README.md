@@ -1,13 +1,13 @@
 ### Repositorios
 - Backend
-    [https://githubt.com](https://githubt.com).
+    [https://github.com/diegosamanez/prueba_factoria_backend](https://github.com/diegosamanez/prueba_factoria_backend).
 
 - Frontend
-    [https://githubt.com](https://githubt.com).
+    [https://github.com/diegosamanez/prueba_factoria_frontend](https://github.com/diegosamanez/prueba_factoria_frontend).
 
 ### Backend
 ```
-git clone https://githubt.com
+git clone git@github.com:diegosamanez/prueba_factoria_backend.git
 ```
 una vez clonado descargar las dependencias y preparar para hacer build
 ```
@@ -45,7 +45,7 @@ Y ya tenríamos corriendo el backend
 
 ### Frontend
 ```
-git clone https://githubt.com
+git clone git@github.com:diegosamanez/prueba_factoria_frontend.git
 ```
 una vez clonado descargar las dependencias y preparar para hacer build
 ```
