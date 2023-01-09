@@ -1,7 +1,8 @@
 ### Repositorios
 - Necesarios 
-Node > 14
-MySQL
+   - Node > 14
+   - MySQL
+
 - Backend
     [https://github.com/diegosamanez/prueba_factoria_backend](https://github.com/diegosamanez/prueba_factoria_backend).
 
