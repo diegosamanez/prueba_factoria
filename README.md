@@ -52,7 +52,7 @@ finalmente
 ```
 npm start
 ```
-Y ya tenríamos corriendo el backend
+Y ya tendríamos corriendo el backend
 
 ### Frontend
 ```
