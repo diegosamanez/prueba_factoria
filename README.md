@@ -15,16 +15,27 @@ npm i
 ```
 configurar el archivo .env.example en este archivo configuraremos los datos de acceso a nuestra base de datos:
 PORT=3333
+
 HOST=0.0.0.0
+
 NODE_ENV=production
+
 APP_KEY=g2pLkancNEgCHLz3uxjYRmfIFok2yVxz
+
 DRIVE_DISK=local
+
 DB_CONNECTION=mysql
+
 MYSQL_HOST=localhost
+
 MYSQL_PORT=3306
+
 MYSQL_USER=lucid
+
 MYSQL_PASSWORD=
+
 MYSQL_DB_NAME=lucid
+
 Vamos a nuestro gestor de base de datos MySql cuyas credenciales pusimos en el archivo .env.example y creamos la base de datos. Ejm "lucid" y ejecutamos el comando:
 ```
 node ace migration:run
